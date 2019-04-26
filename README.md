@@ -8,3 +8,5 @@ Sequential Calculator : A calculator application that takes in variables and arg
 Drawing Application : A paint-like application written in C. Written in Java.
 
 Flight Scheduler : A flight scheduling system that is based heavily upon object oriented programming and MySQL. Must run the derby server FlightSchedulerDBErykemh5600 before running the main program. Written in Java.
+
+Expression Tree Builder : Takes expressions in either infix or postfix, converts them to its complement, builds an expression tree, and does an inorder traversal to return the result. Written in C++ and Java.
