@@ -1,5 +1,5 @@
-# Eryk-Heyssler
-A repository containing a few projects and papers that I have completed in my educational career.
+# Eryk Heyssler
+## A repository containing a few projects and papers that I have completed in my educational career.
 
 **Python_AI_projects**: A collection of projects written in Python that demonstrate AI programming. They are as follows:
   1) A simple demonstration of my knowledge in python programming.
