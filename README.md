@@ -1,6 +1,8 @@
 # Eryk-Heyssler
 A repository containing just a few projects for future employers.
 
+Concurrency Lab : A program that is essentially a data structure for a channel. Demonstrates concurrent programming using semaphores, mutexes, and condition variables. Written in C.
+
 tsh : A tiny shell application. Written in C.
 
 Sequential Calculator : A calculator application that takes in variables and arguments for computation. It uses concepts of data structures, object oriented programming, and recursion. Written in Python.
