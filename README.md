@@ -1,7 +1,9 @@
 # Eryk-Heyssler
 A repository containing just a few projects for future employers.
 
-Concurrency Lab : A program that is essentially a data structure for a channel. Demonstrates concurrent programming using semaphores, mutexes, and condition variables. Written in C.
+Malloc Lab: A dynamic memory allocator which uses a segregated free list. Main file: mm.c. Written in C.
+
+Concurrency Lab : A program that is essentially a data structure for a channel. Demonstrates concurrent programming using semaphores, mutexes, and condition variables. Main files: channel.c, channel.h, buffer.c, buffer.h, linked_list.c. Written in C.
 
 tsh : A tiny shell application. Written in C.
 
