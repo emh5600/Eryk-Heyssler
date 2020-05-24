@@ -1,5 +1,5 @@
 # Eryk Heyssler
-## A repository containing a few projects and papers that I have completed in my educational career.
+### A repository containing a few projects and papers that I have completed in my educational career.
 
 **Python_AI_projects**: A collection of projects written in Python that demonstrate AI programming. They are as follows:
   1) A simple demonstration of my knowledge in python programming.
@@ -11,7 +11,9 @@
 
 **Malloc Lab**: A dynamic memory allocator which uses a segregated free list. Main file: mm.c. Written in C.
 
-**Concurrency Lab** : A program that is essentially a data structure for a channel. Demonstrates concurrent programming using semaphores, mutexes, and condition variables. Main files: channel.c, channel.h, buffer.c, buffer.h, linked_list.c. Written in C.
+**Concurrency Lab**: A program that is essentially a data structure for a channel. Demonstrates concurrent programming using semaphores, mutexes, and condition variables. Main files: channel.c, channel.h, buffer.c, buffer.h, linked_list.c. Written in C.
+
+**3D Reconstruction, Airplane Detection, Motion Detection .pdf's**: Papers written from Computer Vision projects. The source files of the projects are too large to store on github for free, so I have only included the pdf writeups for some of them. The original projects were written in Matlab.
 
 **tsh** : A tiny shell application. Written in C.
 
